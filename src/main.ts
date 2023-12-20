@@ -1,0 +1,1 @@
+let myArray = ['one', 'key', 1234]
